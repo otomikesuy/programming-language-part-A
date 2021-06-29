@@ -1,5 +1,5 @@
 # programming language partA
-Just wanted to keep some of the codes that I learned in a class at Coursera
+Just wanted to keep some of the codes that I learned in the class at Coursera
 
 https://www.coursera.org/learn/programming-languages
 
