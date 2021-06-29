@@ -1,0 +1,7 @@
+First try: 92.5
+Second try: 95.25
+Third try: 97.85
+Forth try: 97.85
+Fifth try: 97.85
+
+Ended.
